@@ -23,7 +23,7 @@ $ ln -s /where/is/imagenet/val/ val
 
 ## 3. train
 
-For now we released the searched models here. 
+For now we released the searched models [here](https://drive.google.com/drive/folders/1rOAN9SLQwMlVBq48xxMVEeRcUa4bm-mi?usp=sharing). 
 
 We are cleaning the search and training code. Please stay tuned. 
 
