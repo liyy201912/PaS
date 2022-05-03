@@ -1,5 +1,4 @@
 # PaS
-# PaS
 
 A clean and fast implement of Pruning-as-Search: Efficient Neural Architecture Search via Channel Pruning and Structural Reparameterization. To be appear in IJCAI 2022
 
